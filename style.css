@@ -1,0 +1,70 @@
+*{
+margin: 0;
+padding: 0;
+
+
+}
+
+body{
+background-image: url(./images/13189-Lottery1.1200w.tn_.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+/* background-color: blue; */
+color: white;
+text-shadow: 2px 2px black;
+
+
+}
+header{
+background-color: red;
+border-radius: 50px;
+font-size: 2.9rem;
+text-align: center;
+border: 6px solid white;
+letter-spacing: 0.2 rem;
+margin: 20px auto;
+padding: 20px 10px;
+width: 60%;
+
+
+
+}
+#balls_ul{
+text-align: center;
+font-size: 1.8em;
+
+
+}
+.balls{
+    background-color: blue;
+border: 5px solid white;
+border-radius: 50px;
+font-size: 1.8em;
+list-style: none;
+width: 75px;
+height: 75px;
+line-height: 75px;
+margin: 40px 30px;
+display: inline-block;
+
+
+}
+.stars{
+background-color: green;
+
+
+}
+
+#button_run{
+background-color: blueviolet;
+font-size: 1.8em;
+text-align: center;
+width: 150px;
+border: 5px solid white;
+border-radius: 25px;
+margin: 40px auto;
+cursor: pointer;
+
+
+}
